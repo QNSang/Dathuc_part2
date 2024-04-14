@@ -1,5 +1,0 @@
-﻿  Polynomial_part2.cpp
-C:\Users\Admin\OneDrive - VNU-HCMUS\HCMUS\KY THUAT LAP TRINH\Polynomial part 2\Polynomial_part2.cpp(185,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Admin\OneDrive - VNU-HCMUS\HCMUS\KY THUAT LAP TRINH\Polynomial part 2\Polynomial_part2.cpp(194,61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Admin\OneDrive - VNU-HCMUS\HCMUS\KY THUAT LAP TRINH\Polynomial part 2\Polynomial_part2.cpp(198): warning C4715: 'divide_poly': not all control paths return a value
-  Polynomial part 2.vcxproj -> C:\Users\Admin\OneDrive - VNU-HCMUS\HCMUS\KY THUAT LAP TRINH\Polynomial part 2\x64\Debug\Polynomial part 2.exe
